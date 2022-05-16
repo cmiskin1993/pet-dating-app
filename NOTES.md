@@ -1,3 +1,6 @@
+# Overview 
+Have a user that can signup / login
+
 * You must have 5 components:
  1. Home
  2. NavBar
